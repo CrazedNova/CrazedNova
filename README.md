@@ -30,4 +30,11 @@ i have a fluffy ass boyfriend he's nice funny and smart, he treats me well, i ho
 -NOTE IM FUCKING TAKEN.
 ```
 
+Anyways!!
+
+**that's the end of that**
+
+![Screenshot_194](https://user-images.githubusercontent.com/80184793/135946977-28400d9f-2dd2-46bf-97e1-d5407eb91024.png)
+
+
 ```i love you so so so so very much godcat~```
