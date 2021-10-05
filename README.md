@@ -1,6 +1,10 @@
 ***hi my names***
    ## CrazedNova404
 ---------------------
+
+![Screenshot_90](https://user-images.githubusercontent.com/80184793/135946533-3f18f6c3-6920-4020-9b25-78307f492b32.png)
+
+
 ```some things to know about me```
 
 i make games on ROBLOX, with **one language**, ***LUA***
