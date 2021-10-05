@@ -24,3 +24,8 @@ i have a fluffy ass boyfriend he's nice funny and smart, he treats me well, i ho
 ```he said he loves what i did, i thank him for teaching me how to do this```
 
 ```i love you baby~```
+
+
+```diff
+-NOTE IM FUCKING TAKEN.
+```
