@@ -2,7 +2,7 @@
 
 <!---Colorable text --->
 
-${\color[rgb]{0.149,0.043,0.937} Yours}$
+${\color[rgb]{0.502,1.0,0.624} Yours}$
 $${\large {\color{blue} Bigger \text{ text }}}$$
 # $${\color{purple}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
 ${\color[rgb]{1,0,0}Hello}$
