@@ -15,10 +15,25 @@ I do work with various types of programming languages to try and help solve some
     <td valign="middle" style="padding-right: 10px;">
       <h2>Some languages I currently know!</h2>
       <p>Here’s a list of programming languages and tools I use regularly.</p>
+      <ul>
+        <li>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="20" style="vertical-align: middle; margin-right: 8px;" />
+          Python
+        </li>
+        <li>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="20" style="vertical-align: middle; margin-right: 8px;" />
+          JavaScript
+        </li>
+        <li>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" height="20" style="vertical-align: middle; margin-right: 8px;" />
+          Lua
+        </li>
+        <!-- Add more languages as you want -->
+      </ul>
     </td>
     <td width="200" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/CrazedNova/CrazedNova/refs/heads/main/download.svg"/>
-      <img height="200" src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F827964533792440421.gif?v=1&w=64&q=75" />
+      <img src="https://raw.githubusercontent.com/CrazedNova/CrazedNova/refs/heads/main/download.svg" height="200" />
+      <img height="200" src="https://cdn.discordapp.com/emojis/827964533792440421.gif" />
     </td>
   </tr>
 </table>
