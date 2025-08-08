@@ -10,7 +10,7 @@ I do work with various types of programming languages to try and help solve some
 </div>
 
 #
-<img align="right" height="200" src="[https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif](https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F827964533792440421.gif%3Fv%3D1&w=64&q=75)"/>
+<img align="right" height="200" src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F827964533792440421.gif%3Fv%3D1&w=64&q=75"/>
 
 # Some languages i currently know!
 
