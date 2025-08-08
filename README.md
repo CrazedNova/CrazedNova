@@ -13,7 +13,7 @@ I do work with various types of programming languages to try and help solve some
 <table width="50%">
 <tr>
   <td></td>
-  <td width="500px" align="left">
+  <td width="100px" align="left">
     <img height="200" src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F827964533792440421.gif%3Fv%3D1&w=64&q=75"/>
     hello
   </td>
