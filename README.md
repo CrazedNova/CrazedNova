@@ -17,7 +17,7 @@ I do work with various types of programming languages to try and help solve some
       <p>Here’s a list of programming languages and tools I use regularly.</p>
     </td>
     <td width="200" align="center" valign="middle">
-      <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Share+Tech&color=FF8EE2&random=true&lines=Work+work+work...;So+tell+your+mother%2C+tell+your+pops%2C+we're+in+a+new+world%E2%80%94+it+never+stops!;Your+phone+linging!!;ERROR;Syntax+Error;Your+cool;The+quick+brown+fox%2C+jumped+over+the+blue+moon.;BOUNUS+DUCKS!;I+am+Heavy+weapons+guy%2C+and+this+is+my+TANK.;Fly+high+rick+may%2C+we+miss+you.;Didn't+you+see+the+bloody+bombs!%3F;I+have+yet+to+meet+one+who+can+outsmart+bullet..;Maybe..+Maybe..;TheMastergamer20180.;Twigs+is+silly.;How+are+you%2C+old+friend%3F;My+my+my..+what+do+we+have+here%3F"/>
+      <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Share+Tech&color=FF8EE2&random=true&lines=Work+work+work...;So+tell+your+mother%2C+tell+your+pops%2C+we%27re+in+a+new+world%E2%80%94+it+never+stops!;Your+phone+linging!!;ERROR;Syntax+Error;Your+cool;The+quick+brown+fox%2C+jumped+over+the+blue+moon.;BOUNUS+DUCKS!;I+am+Heavy+weapons+guy%2C+and+this+is+my+TANK.;Fly+high+rick+may%2C+we+miss+you.;Didn%27t+you+see+the+bloody+bombs!%3F;I+have+yet+to+meet+one+who+can+outsmart+bullet..;Maybe..+Maybe..;TheMastergamer20180.;Twigs+is+silly.;How+are+you%2C+old+friend%3F;My+my+my..+what+do+we+have+here%3F"/>
       <img height="200" src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F827964533792440421.gif?v=1&w=64&q=75" />
     </td>
   </tr>
