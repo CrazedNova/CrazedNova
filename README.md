@@ -1,40 +1,5 @@
-***hi my names***
-   ## CrazedNova404
----------------------
-
-![Screenshot_90](https://user-images.githubusercontent.com/80184793/135946533-3f18f6c3-6920-4020-9b25-78307f492b32.png)
-
-
-```some things to know about me```
-
-i make games on ROBLOX, with **one language**, ***LUA***
-
-my roblox user is ***CrazedNova404***
-
-i also do youtube, ***Nova the protogen***
-
-i can't decide between Nova or Chance as my irl name *[#nameIssues]*
-
-i have a fluffy ass boyfriend he's nice funny and smart, he treats me well, i hope i do the same
-
-```the picture below is of us huggin uwu```
-
-![Screenshot_195](https://user-images.githubusercontent.com/80184793/135946016-2d67eeaf-e169-4e27-9a62-17716a500e96.png)
-
-```he said he loves what i did, i thank him for teaching me how to do this```
-
-```i love you baby~```
-
-
-```diff
--NOTE IM FUCKING TAKEN.
-```
-
-Anyways!!
-
-**that's the end of that**
-
-![Screenshot_194](https://user-images.githubusercontent.com/80184793/135946977-28400d9f-2dd2-46bf-97e1-d5407eb91024.png)
-
-
-```i love you so so so so very much godcat~```
+<h1 align="center">  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=Hey+Fellas!;Myself+Rachit+Pal!"/>
+  </a>
+</h1>
