@@ -15,6 +15,7 @@ I do work with various types of programming languages to try and help solve some
   <td></td>
   <td width="200px" align="right">
     <img height="200" src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F827964533792440421.gif%3Fv%3D1&w=64&q=75"/>
+    hello
   </td>
 </tr>
 </table>
