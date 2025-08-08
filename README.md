@@ -16,7 +16,7 @@ I do work with various types of programming languages to try and help solve some
       <h2>Some languages I currently know!</h2>
       <p>Here’s a list of programming languages and tools I use regularly.</p>
     </td>
-    <td width="200" align="right" valign="middle">
+    <td width="100" align="right" valign="middle">
       <img height="200" src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F827964533792440421.gif?v=1&w=64&q=75" />
     </td>
   </tr>
