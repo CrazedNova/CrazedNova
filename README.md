@@ -37,10 +37,6 @@ I do work with various types of programming languages to try and help solve some
   </tr>
 </table>
 
-
-
-# Some languages i currently know!
-
 <!--- Display profile views --->
 <h1 align="left">
   <img src="https://komarev.com/ghpvc/?username=CrazedNova&style=for-the-badge&color=fa00c4" alt="Profile views badge">
