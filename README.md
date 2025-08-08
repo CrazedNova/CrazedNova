@@ -16,7 +16,7 @@ I do work with various types of programming languages to try and help solve some
       <h2>Some languages I currently know!</h2>
       <ul>
         <li>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="20" style="vertical-align: middle; margin-right: 8px;" />
+          <img src="https://i.redd.it/dclacd1t6t791.png" alt="Python" height="20" style="vertical-align: middle; margin-right: 8px;" />
           Python
         </li>
         <li>
