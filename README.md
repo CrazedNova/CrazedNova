@@ -12,7 +12,7 @@ I do work with various types of programming languages to try and help solve some
 #
 <table width="100%">
   <tr>
-    <td valign="middle" style="padding-right: 20px;">
+    <td valign="middle" style="padding-right: 10px;">
       <h2>Some languages I currently know!</h2>
       <p>Here’s a list of programming languages and tools I use regularly.</p>
     </td>
