@@ -10,7 +10,7 @@ I do work with various types of programming languages to try and help solve some
 </div>
 
 #
-<table width="50%">
+<table width="120%">
 <tr>
   <td></td>
   <td width="100px" align="left">
