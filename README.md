@@ -6,7 +6,7 @@ $${\large {\color{blue} Bigger \text{ text }}}$$
 # $${\color{purple}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
 ${\color[rgb]{1,0,0}Hello}$
 # $${\color[rgb]{0.086,0.996,0.388}letters}$$
-$${\color[HTML]{FF00FF} Magenta Text}$$
+$${\color[rgb]{0.149,0.043,0.937}} Your\ text$$
 
 
 <div style="text-align: center;">
