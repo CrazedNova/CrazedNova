@@ -8,7 +8,24 @@ I do work with various types of programming languages to try and help solve some
 <div style="text-align: center;">
   <img src="https://media.discordapp.net/attachments/975865507653759007/1403407255776264232/IMG_1754.png?ex=6897705b&is=68961edb&hm=7325407ff3dc7ccbf41579671030c7408358c322937e918f6f11ac89050fc9a5&=&format=webp&quality=lossless&width=1269&height=153" alt="Centered Image">
 </div>
-<p class="fade-in-text">This text will fade in.</p>
+
+<svg viewbox="0 0 50 50" width="50" height="50">
+  <defs>
+    <mask id="mask" x="0" y="0" width="100" height="49">
+      <rect x="0.5" y="0.5" width="49" height="49" fill="#fff"/>
+      <text x="18" text-anchor="middle" y="50" dy="0">D</text>
+      <text x="23" id="ltrV" text-anchor="middle" y="50" dy="0">A</text>
+      <text x="28" text-anchor="middle" y="50" dy="0">R</text>
+      <text x="33" text-anchor="middle" y="50" dy="0">K</text>
+    </mask>
+  </defs>
+  <rect x="0.5" y="0.5" width="49" height="49" mask="url(#mask)" fill-opacity="1" fill="#C0C0C0"/>
+</svg>
+
+<div id="overlay">
+  <h5><center>text</center></h5>
+</div>
+
 #
 <table width="100%">
   <tr>
