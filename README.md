@@ -9,6 +9,8 @@ I do work with various types of programming languages to try and help solve some
   <img src="https://media.discordapp.net/attachments/975865507653759007/1403407255776264232/IMG_1754.png?ex=6897705b&is=68961edb&hm=7325407ff3dc7ccbf41579671030c7408358c322937e918f6f11ac89050fc9a5&=&format=webp&quality=lossless&width=1269&height=153" alt="Centered Image">
 </div>
 
+# Some languages i currently know!
+
 <!--- Display profile views --->
 <h1 align="left">
   <img src="https://komarev.com/ghpvc/?username=CrazedNova&style=for-the-badge&color=fa00c4" alt="Profile views badge">
