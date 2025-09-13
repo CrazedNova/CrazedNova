@@ -6,8 +6,11 @@
 # Hello! I'm $${\color[rgb]{0.984,0.0,1.0}CrazedNova\color[rgb]{0.988,0.604,0.996}(Chance/Nova)}$$
 I do work with various types of programming languages to try and help solve some of my lifes most uniportant or important problems!
 <div style="text-align: center;">
-  <img src="https://avatars.githubusercontent.com/u/80184793?v=4&width=1269&height=153" alt="Centered Image">
+  <img src="https://avatars.githubusercontent.com/u/80184793?v=4" 
+       alt="Centered Image"
+       style="max-width: 100%; height: auto;">
 </div>
+
 
 #
 <table width="100%">
